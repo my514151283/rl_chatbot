@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Seq2Seq_Chatbot_QA-win10_py36/.idea/Seq2Seq_Chatbot_QA-win10_py36.iml" filepath="$PROJECT_DIR$/../Seq2Seq_Chatbot_QA-win10_py36/.idea/Seq2Seq_Chatbot_QA-win10_py36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ccm-master/.idea/ccm-master.iml" filepath="$PROJECT_DIR$/../ccm-master/.idea/ccm-master.iml" />
+      <module fileurl="file://D:/mychatbot/.idea/mychatbot.iml" filepath="D:/mychatbot/.idea/mychatbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myseq2seq_v1/.idea/myseq2seq.iml" filepath="$PROJECT_DIR$/../myseq2seq_v1/.idea/myseq2seq.iml" />
+      <module fileurl="file://D:/tensorflow_practice-master/nlp/.idea/nlp.iml" filepath="D:/tensorflow_practice-master/nlp/.idea/nlp.iml" />
+      <module fileurl="file://D:/python_test/.idea/python_test.iml" filepath="D:/python_test/.idea/python_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rl_robot.iml" filepath="$PROJECT_DIR$/.idea/rl_robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../seq2seq/.idea/seq2seq.iml" filepath="$PROJECT_DIR$/../seq2seq/.idea/seq2seq.iml" />
+    </modules>
+  </component>
+</project>
